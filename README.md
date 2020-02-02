@@ -9,4 +9,13 @@ Election audit of the recent local congressional election. The analysis shows th
 4. Winner information
 
 ## Resources
+
 - Data source: election_result.csv
+
+## Challenge
+
+Updated the election audit with the county turnout data.The following data was added to the existing analysis:
+1. Each county name
+2. Number of vote per each county
+3. Votes percentage per each county
+4. Summary of the county with the largest turnout
